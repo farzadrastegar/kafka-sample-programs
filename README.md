@@ -1,3 +1,5 @@
+Screencast is available [here](https://www.youtube.com/watch?v=1Og9n9FJteM).
+
 # Sample Programs for Kafka 0.9 API
 
 This project provides a simple but realistic example of a Kafka
